@@ -1,0 +1,9 @@
+#pragma once
+
+#define Project_Name "@PROJECT_NAME@";
+#define Project_Version "@PROJECT_VERSION@";
+#define Project_Build_Type "@CMAKE_BUILD_TYPE@";
+
+#define Project_Version_Major @PROJECT_VERSION_MAJOR@;
+#define Project_Version_Minor @PROJECT_VERSION_MINOR@;
+#define Project_Version_Patch @PROJECT_VERSION_PATCH@;

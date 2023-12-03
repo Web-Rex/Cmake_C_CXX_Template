@@ -1,0 +1,7 @@
+# message(STATUS "Using CPM")
+# include(CPM)
+# cpmaddpackage("gh:fmtlib/fmt#9.1.0")
+# cpmaddpackage("gh:nlohmann/json@3.11.2")
+# cpmaddpackage("gh:catchorg/Catch2@2.13.9")
+# cpmaddpackage("gh:jarro2783/cxxopts@3.1.1")
+# cpmaddpackage("gh:gabime/spdlog@1.11.0")
